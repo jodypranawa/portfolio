@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.header .logo {
+    background: white;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 25px;
+}
+
+.header {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3d3d3d;
+    font-size: 30px;
+}
+
+#empty {
+    width: 150px;
+    height: 20px;
+    background-color: #3d3d3d;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    gap: 100px;
+}
+.navbar > li {
+        margin:0px 10px;
+    }
+        .navbar > li > a {
+            color: rgb(255, 255, 255);
+            text-decoration: underline;
+        }
+.left h2 {
+    font-size: 85px;
+    margin: 0px;
+    padding: 50px;
+    color: #00EEFF;
+}
+.pg-title {
+    display: flex;
+    align-items: center;
+}
+.line {
+    height: 8px;
+    width: 82%;
+    background: white;
+    margin-top: 20px;
+}
+.top {
+    display: flex;
+    margin-left: 300px;
+    gap: 80px;
+    color: #00EEFF;
+}
+.bottom {
+    display: flex;
+    margin-left: 380px;
+    gap: 80px;
+    margin-top: 20px;
+    color: #00EEFF;
+}
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.underline {
+    width: 100%;
+    height: 2px;
+    background: white;
+}
