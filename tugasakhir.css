@@ -41,7 +41,7 @@ body {
     }
         .navbar > li > a {
             color: rgb(255, 255, 255);
-            text-decoration: underline;
+            text-decoration: none;
         }
 .wrapper {
     margin-top: 120px;
@@ -108,4 +108,5 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
 
