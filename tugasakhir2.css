@@ -96,6 +96,9 @@ body {
         color: black;
         text-decoration: none;
     }
+    .nextpage > a:hover {
+        opacity: 0.8;
+    }
 .lastpage {
     margin: 20px 80px;
     text-align: left;
@@ -107,6 +110,7 @@ body {
         color: black;
         text-decoration: none;
     }
+
 
 
 
