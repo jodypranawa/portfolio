@@ -107,11 +107,15 @@ body {
         color: black;
         text-decoration: none;
     }
+    .nextpage > a:hover {
+        opacity: 0.8;
+    }
 .audiowide-regular {
   font-family: "Audiowide", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
+
 
 
 
